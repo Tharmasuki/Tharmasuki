@@ -58,19 +58,6 @@ Software Engineer | Full-stack Developer | Frontend Developer | Backend Develope
   <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,idea" />
 </p>
 
----
-
-## 💼 Experience
-
-**Software Engineering Intern | COGNTIX**
-
-*February 2025 – July 2025*
-
-- Worked on web application development and maintenance.
-- Developed and improved frontend interfaces and UI workflows.
-- Integrated RESTful APIs and worked on backend functionality.
-- Collaborated with QA teams to identify and resolve application issues.
-- Gained hands-on experience with Spring Boot and AWS Lightsail deployment.
 
 ---
 

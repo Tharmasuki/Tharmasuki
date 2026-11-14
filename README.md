@@ -111,7 +111,7 @@ Software Engineer | Full-stack Developer | Frontend Developer | Backend Develope
   <a href="https://github.com/Tharmasuki">
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
-  <a href="www.linkedin.com/in/tharmasuki-jeyakumar" target="_blank">
+  <a href="[www.linkedin.com/in/tharmasuki-jeyakumar](https://www.linkedin.com/in/tharmasuki-jeyakumar/)" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
   <a href="https://tharmasuki.vercel.app/" target="_blank">

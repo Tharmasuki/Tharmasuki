@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Tharmasuki Jeyakumar</h1>
 
 <h3 align="center">
-Software Engineer | Frontend Developer | Backend Developer
+Software Engineer | Full-stack Developer | Frontend Developer | Backend Developer
 </h3>
 
 <p align="center">
